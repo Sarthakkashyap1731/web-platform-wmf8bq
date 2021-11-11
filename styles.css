@@ -108,3 +108,10 @@ h2 {
 .testimonial-author {
   color: #c3fae8;
 }
+.chair img{
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.chair-box{
+  padding: 32px;
+}
