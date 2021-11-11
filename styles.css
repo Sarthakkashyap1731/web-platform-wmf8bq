@@ -46,3 +46,34 @@ img {
   cursor: pointer;
   display: inline-block;
 }
+.btn:hover{
+  background-color: #099268;
+}
+header,
+section {
+  margin-bottom: 96px;
+}
+h2{
+  font-size: 36px;
+  letter-spacing: -0.5;
+  margin-bottom: 48px;
+}
+.features-icon{
+  color: #087f5b;
+  width: 32px;
+  height: 32px;
+  margin-bottom: 25px;
+}
+.feature-title{
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+.features-text {
+  font-size: 18px;
+  line-height: 1.7;
+}
+.grid-3-colum{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 80px;
+}
